@@ -1,0 +1,8 @@
+,precision,recall,f1-score,support
+Normal mode,0.989,0.989,0.989,731.0
+Partial discharge,0.973,0.947,0.96,38.0
+Low energy discharge,0.885,0.939,0.911,49.0
+Low-temp overheating,0.912,0.89,0.901,82.0
+accuracy,0.976,0.976,0.976,0.976
+macro avg,0.94,0.941,0.94,900.0
+weighted avg,0.976,0.976,0.976,900.0
